@@ -39,3 +39,23 @@
 .lead{
     color:black;
 }
+/*styling the image*/
+/*styling the login and signup forms*/
+.auth-signup{
+    padding:20px;
+    border-radius:10px;
+    box-shadow:3px 3px 3px 3px #cccccc;
+}
+.auth-signup img{
+    width:310px;
+    height:200px;
+    border-radius:80%;
+}
+.auth-signup .content-title{
+    text-align: center;
+    font-family:-apple-system:
+}
+.auth-signup hr{
+    padding:2px;
+    margin:0;
+}
